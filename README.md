@@ -1,0 +1,2 @@
+# SpringMVC-Simple-realize
+这个项目是关于SpringMVC的简单实现，希望可以给大家熟悉SpringMVC提供思路和帮助
